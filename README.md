@@ -16,3 +16,4 @@ An implementation of a database system as a final project for a database class. 
 - Tokenization, list, and part of create table functionality were provided.
 - Insersion, update, delete, select, drop, and writing table to disk and droping table was implemented from scratch. 
 - Compiled and run on Windows 10 using gcc version 6.3.0
+- support aggregates include COUNT, SUM, and AVG
