@@ -12,5 +12,7 @@ An implementation of a database system as a final project for a database class. 
   | SELECT <aggregate>(column_name) FROM table_name [ WHERE column_name <condition> [(AND | OR) column_name <condition>] ]       
     [ ORDER BY column_name [DESC] ]
 
-Tokenization, list, and part of create table functionality were provided.
-Insersion, update, delete, select, drop, and writing table to disk and droping table was implemented from scratch. 
+# Notes
+- Tokenization, list, and part of create table functionality were provided.
+- Insersion, update, delete, select, drop, and writing table to disk and droping table was implemented from scratch. 
+- Compiled and run on Windows 10 using gcc version 6.3.0
