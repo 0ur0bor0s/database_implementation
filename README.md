@@ -9,7 +9,7 @@ An implementation of a database system as a final project for a database class. 
 7)  UPDATE table_name SET column = data_value [ WHERE column_name <relational_operator> data_value ]
 8)  SELECT { column_name } FROM table_name [ WHERE column_name <condition> [(AND | OR) column_name <condition>] ]       
     [ ORDER BY column_name [DESC] ]
-9)  SELECT <aggregate>(column_name) FROM table_name [ WHERE column_name <condition> [(AND | OR) column_name <condition>] ]       
+9)  SELECT aggregate(column_name) FROM table_name [ WHERE column_name <condition> [(AND | OR) column_name <condition>] ]       
     [ ORDER BY column_name [DESC] ]
 
 # Notes
